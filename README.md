@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Whac-A-Mole Game**
 
 This is a simple **Java-based "Whac-A-Mole" game** with a Mario theme. The game involves hitting moles while avoiding piranha plants. The game keeps track of the player's score and records the highest score.
@@ -90,10 +89,3 @@ Or use the VS Code **Run** button to execute the program.
 
 ---
 
-Enhance UI design.
-
-License
-
-This project is open-source and available under the MIT License.
-
->>>>>>> ddc333f2f07d3fbe4c9f2a06991f718d38973aa3
