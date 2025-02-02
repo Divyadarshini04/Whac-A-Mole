@@ -74,11 +74,6 @@ Or use the VS Code **Run** button to execute the program.
 - 🚫 No additional libraries required.
 
 ---
-
-## 🖼 **Screenshots**
-
-![Game Screenshot](WhacAMole.png)
-
 ---
 
 ## 🔥 **Future Improvements**
