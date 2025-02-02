@@ -1,18 +1,58 @@
-## Getting Started
+Whac-A-Mole Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple Java-based "Whac-A-Mole" game with a Mario theme. The game involves hitting moles while avoiding piranha plants. The game keeps track of the player's score and records the highest score.
 
-## Folder Structure
+Features
 
-The workspace contains two folders by default, where:
+Whac-A-Mole Gameplay: Click the mole to earn points.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Piranha Plants: Clicking on a piranha plant ends the game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Reset Button: Restart the game without restarting the program.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+High Score Tracking: Stores and displays the highest score.
 
-## Dependency Management
+Multiple Piranha Plants: More challenging gameplay with multiple plants appearing randomly.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Installation & Usage
+
+Clone the repository:
+
+git clone https://github.com/yourusername/WhacAMole.git
+cd WhacAMole
+
+Compile and run the Java program:
+
+javac WhacAMole.java
+java WhacAMole
+
+Controls
+
+Click on a mole to increase your score.
+
+Avoid clicking on the piranha plants.
+
+Press the Reset button to restart the game.
+
+Dependencies
+
+Java Swing for GUI components.
+
+No additional libraries required.
+
+Screenshots
+
+(You can add screenshots of the game here.)
+
+Future Improvements
+
+Add sound effects.
+
+Implement difficulty levels.
+
+Enhance UI design.
+
+License
+
+This project is open-source and available under the MIT License.
+
