@@ -74,7 +74,6 @@ Or use the VS Code **Run** button to execute the program.
 - 🚫 No additional libraries required.
 
 ---
----
 
 ## 🔥 **Future Improvements**
 
